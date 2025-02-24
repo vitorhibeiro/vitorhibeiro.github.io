@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Vítor H. Ribeiro
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Vítor Hugo
+last_name: Ribeiro
 
 # Status emoji
 status:
@@ -20,69 +20,62 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: ComplexLab
+    url: https://complex.pfi.uem.br/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:vitorhibeiro@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/vitorhibeiro
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/vitorhibeiro
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/vitorhibeiro
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/v%C3%ADtor-hugo-ribeiro-690a511aa/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=63Y_3nAAAAAJ&hl=pt-BR&authuser=2
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Complex Systems
+  - Complex Networks
+  - Science of Science
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Science of Science
+    institution: Universidade Estadual de Maringá
+    date_start: 2024-04-01
+    date_end: 2028-3-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Add a text here
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master in Applyed Physics
+    institution: Instituto de Física Gleb Wataghin / Universidade Estadual de Londrina
+    date_start: 2021-08-01
+    date_end: 2023-07-31
     summary: |
-      GPA: 3.4/4.0
+      Add a text here
+
+  - area: BSc Physics
+    institution: Universidade Estadual de Maringá
+    date_start: 2017-03-01
+    date_end: 2021-05-31
+    summary: |
+      Add a text here
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
