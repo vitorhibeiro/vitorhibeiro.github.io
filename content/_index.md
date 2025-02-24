@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Cientista em formação, apaixonado por Ciência e Tecnologia, com interesse pelas áreas de análise e visualização de dados.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+         Atualmente estou desenvolvendo um projeto doutorado no Departamento de Física (PFI) da Universidade Estadual de Maringá (UEM). O projeto se encontra inserido na área Física denominada de Sistemas Complexos e tem como principais tópicos os conceitos de Redes Complexas e Ciência da Ciência. A ideia principal do projeto é avaliar a relações entre as métricas da produção científica brasileira dentro de vários contextos, sendo o principal deles o das redes de colaboração formadas entre os pesquisadores. Para isso, utilizamos como base teórica conceitos físicos e estatísticos de análise de dados, bem como conceitos matemáticos e outras ferramentas para a análise de redes e grafos. Por fim, tudo isso é colocado em prática através da linguagem Python.
+
     design:
       columns: '1'
   - block: collection
