@@ -1,7 +1,7 @@
 ---
 title: "Λ polarization from vortex rings as the medium response for jet thermalization"
 authors:
-- admin
+- Vitor Hugo Ribeiro
 - Robert Ford
 author_notes:
 - "Equal contribution"
