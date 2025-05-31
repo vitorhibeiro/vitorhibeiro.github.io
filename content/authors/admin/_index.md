@@ -55,7 +55,7 @@ education:
   - area: PhD Science of Science
     institution: State University of Maringá
     date_start: 2024-04-01
-    date_end: present
+    date_end: 
   #  summary: |
   #  Add a text here
   #  button:
