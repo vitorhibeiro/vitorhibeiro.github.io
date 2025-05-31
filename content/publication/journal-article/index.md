@@ -20,13 +20,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review C*"
+publication: "Physical Review C"
 publication_short: "PRC"
 
 abstract: We performed a systematic study on the formation of vorticity rings as the process for jet thermalization in the medium created in high-energy nuclear collisions. In this work, we expanded our previous analysis to a more realistic framework by considering noncentral events and fluctuations in the initial condition. We simulate the formation and evolution of the flow vortex structure in a relativistic viscous hydrodynamic model and study the sensitivity of the proposed “ring observable” that can be measured experimentally through the polarization of Λ hyperons. We show that this observable is robust with respect to fluctuating initial conditions to capture the jet-induced vortex flow signal and further study its dependence on different model parameters, such as the jet's velocity, position, the fluid's shear viscosity, and the collision centrality. The proposed observable is associated with the formation of vorticity in a quark-gluon plasma, showing that the measurement of particle polarization can be a powerful tool to probe different properties of jet-medium interactions and to understand better the polarization induced by the transverse and longitudinal expansions of the medium.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We performed a systematic study on the formation of vorticity rings as the process for jet thermalization in the medium created in high-energy nuclear collisions. In this work, we expanded our previous analysis to a more realistic framework by considering noncentral events and fluctuations in the initial condition. We simulate the formation and evolution of the flow vortex structure in a relativistic viscous hydrodynamic model and study the sensitivity of the proposed “ring observable” that can be measured experimentally through the polarization of Λ hyperons. We show that this observable is robust with respect to fluctuating initial conditions to capture the jet-induced vortex flow signal and further study its dependence on different model parameters, such as the jet's velocity, position, the fluid's shear viscosity, and the collision centrality. The proposed observable is associated with the formation of vorticity in a quark-gluon plasma, showing that the measurement of particle polarization can be a powerful tool to probe different properties of jet-medium interactions and to understand better the polarization induced by the transverse and longitudinal expansions of the medium.
 
 tags:
 - Source Themes
