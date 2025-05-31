@@ -7,10 +7,7 @@ authors:
 - Willian Matioli Serenone
 - Chun Shen
 - Jun Takahashi
-- Giorgio Torrieri
-author_notes:
-- "Equal contribution"
-- "Equal contribution"  
+- Giorgio Torrieri 
 date: "2024-01-17"
 doi: "10.1103/PhysRevC.109.014905"
 
