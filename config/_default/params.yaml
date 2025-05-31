@@ -6,7 +6,10 @@
 # Appearance
 appearance:
   mode: system
-  color: ruby
+  color: emerald
+
+params:
+  favicon: 🔴
 
 # SEO
 marketing:
