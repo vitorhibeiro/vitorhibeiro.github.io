@@ -42,7 +42,6 @@ sections:
     design:
       columns: '1'
 #  - block: collection
-#    id: papers
 #    content:
 #      title: Featured Publications
 #      filters:
@@ -53,6 +52,7 @@ sections:
 #      view: article-grid
 #      columns: 2
   - block: collection
+    id: papers
     content:
       title: Publications
       text: ""
