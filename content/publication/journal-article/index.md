@@ -46,7 +46,7 @@ url_pdf: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.109.014905
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
+image: "featured.jpg"
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
 #  focal_point: ""
 #  preview_only: false
