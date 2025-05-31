@@ -11,7 +11,7 @@ last_name: Ribeiro
 
 # Status emoji
 status:
-  icon: 💻
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,7 +24,7 @@ role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: ComplexLab
+  - name: ComplexLab - UEM
     url: https://complex.pfi.uem.br/
 
 # Social network links
@@ -43,8 +43,8 @@ profiles:
     url: https://www.linkedin.com/in/v%C3%ADtor-hugo-ribeiro-690a511aa/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=63Y_3nAAAAAJ&hl=pt-BR&authuser=2
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
   - Complex Systems
@@ -52,29 +52,29 @@ interests:
   - Science of Science
 
 education:
-#  - area: PhD Science of Science
-#    institution: Universidade Estadual de Maringá
-#    date_start: 2024-04-01
-#    date_end: 2028-03-31
-#    summary: |
-#      Add a text here
-#    button:
-#      text: 'Read Thesis'
-#      url: 'https://example.com'
+  - area: PhD Science of Science
+    institution: State University of Maringá
+    date_start: 2024-04-01
+    date_end: present
+  #  summary: |
+  #  Add a text here
+  #  button:
+  #    text: 'Read Thesis'
+  #    url: 'https://example.com'
 
   - area: Ms. Applyed Physics
-    institution: Instituto de Física Gleb Wataghin / Universidade Estadual de Campinas
+    institution: Physics Institute Gleb Wataghin / State University of Campinas
     date_start: 2021-08-01
     date_end: 2023-07-31
     summary: |
       Add a text here
 
   - area: BSc. Physics
-    institution: Universidade Estadual de Maringá
+    institution: State University of Maringá
     date_start: 2017-03-01
     date_end: 2021-05-31
-    summary: |
-      Add a text here
+   # summary: |
+   #   Add a text here
       
 work:
 #  - position: Director of Cloud Infrastructure
