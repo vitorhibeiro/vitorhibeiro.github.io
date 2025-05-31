@@ -1,13 +1,13 @@
 ---
 title: "Λ polarization from vortex rings as the medium response for jet thermalization"
 authors:
- - Vítor Hugo Ribeiro
- - David Dobrigkeit Chinellato
- - Michael Annan Lisa
- - Willian Matioli Serenone
- - Chun Shen
- - Jun Takahashi
- - Giorgio Torrieri
+- Vítor Hugo Ribeiro
+- David Dobrigkeit Chinellato
+- Michael Annan Lisa
+- Willian Matioli Serenone
+- Chun Shen
+- Jun Takahashi
+- Giorgio Torrieri
 date: "2024-01-17"
 doi: "10.1103/PhysRevC.109.014905"
 
