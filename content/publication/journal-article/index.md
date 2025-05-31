@@ -2,10 +2,12 @@
 title: "Λ polarization from vortex rings as the medium response for jet thermalization"
 authors:
 - Vitor Hugo Ribeiro
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- David Dobrigkeit Chinellato
+- Michael Annan Lisa
+- Willian Matioli Serenone
+- Chun Shen
+- Jun Takahashi
+- Giorgio Torrieri 
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
