@@ -52,7 +52,7 @@ interests:
   - Science of Science
 
 education:
-  - area: PhD Science of Science
+  - area: PhD in Complex Systems
     institution: State University of Maringá
     date_start: 2024-04-01
     date_end: 
@@ -66,8 +66,8 @@ education:
     institution: Physics Institute Gleb Wataghin / State University of Campinas
     date_start: 2021-08-01
     date_end: 2023-07-31
-    summary: |
-      Add a text here
+  #  summary: |
+  #    Add a text here
 
   - area: BSc. Physics
     institution: State University of Maringá
