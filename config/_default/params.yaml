@@ -9,7 +9,7 @@ appearance:
   color: emerald
 
 params:
-  favicon: 🔴
+  favicon: "🔴"
 
 # SEO
 marketing:
