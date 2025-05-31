@@ -33,23 +33,23 @@ tags:
 featured: false
 
 # links:
-- name: "Paper link"
-  url: "https://journals.aps.org/prc/abstract/10.1103/PhysRevC.109.014905"
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+#- name: "Paper link"
+#  url: ""
+url_pdf: https://journals.aps.org/prc/abstract/10.1103/PhysRevC.109.014905
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
