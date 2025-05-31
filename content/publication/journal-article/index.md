@@ -8,8 +8,8 @@ authors:
 - Chun Shen
 - Jun Takahashi
 - Giorgio Torrieri 
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2024-01-17"
+doi: "10.1103/PhysRevC.109.014905"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
