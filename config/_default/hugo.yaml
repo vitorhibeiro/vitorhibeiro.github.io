@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Ribeiro, V. H. - Site
+title: Ribeiro, V. H.
 # Website URL
 baseURL: 'https://vitorhibeiro.github.io/'
 
