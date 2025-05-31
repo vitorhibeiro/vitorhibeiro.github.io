@@ -1,5 +1,5 @@
 ---
-title: "Lambda polarization from vortex rings as the medium response for jet thermalization"
+title:"Lambda polarization from vortex rings as the medium response for jet thermalization"
 authors:
 - Vítor Hugo Ribeiro
 - David Dobrigkeit Chinellato
@@ -8,7 +8,7 @@ authors:
 - Chun Shen
 - Jun Takahashi
 - Giorgio Torrieri 
-#date: "2024-01-17"
+date: "2024-01-17"
 doi: "10.1103/PhysRevC.109.014905"
 
 # Publication type.
