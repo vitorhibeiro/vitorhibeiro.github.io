@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Λ polarization from vortex rings as the medium response for jet thermalization"
 authors:
 - admin
 - Robert Ford
