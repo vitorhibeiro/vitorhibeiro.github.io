@@ -1,5 +1,5 @@
 ---
-title:"Lambda polarization from vortex rings as the medium response for jet thermalization"
+title: "aqyu"
 authors:
 - Vítor Hugo Ribeiro
 - David Dobrigkeit Chinellato
