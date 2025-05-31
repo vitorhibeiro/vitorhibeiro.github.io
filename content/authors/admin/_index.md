@@ -149,5 +149,6 @@ awards:
 ---
 
 ## About Me
+Aspiring scientist, passionate about Science and Technology, with a strong interest in data analysis and visualization.
 
-Vítor H. Ribeiro is a PhD student at ComplexLab in the Universidade Estadual de Maringá.
+I am currently pursuing a PhD project in the Department of Physics (PFI) at the State University of Maringá (UEM). My research is within the field of Complex Systems, focusing primarily on the concepts of Complex Networks and the Science of Science. The main goal of the project is to investigate the relationships between various metrics of Brazilian scientific production, particularly within the context of collaboration networks.
