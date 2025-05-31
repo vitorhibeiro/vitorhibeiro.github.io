@@ -63,6 +63,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+      layout: horizontal
 #  - block: collection
 #    id: talks
 #    content:
